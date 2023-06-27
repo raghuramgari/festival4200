@@ -14,6 +14,7 @@ class pages {
         expect(text).to.have.length.greaterThan(0);
       })
     })
+
   }
 }
 

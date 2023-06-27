@@ -71,5 +71,5 @@ About the framework and test cases:
  HTML report successfully created
 ea-coding-test-samples/web/cypress/reports/html/index.html
 
-If we copy and paste this in chrome browser, we see the existing report.
+If we copy and paste this in chrome browser, we see the existing report
 

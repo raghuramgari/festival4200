@@ -9,7 +9,7 @@ describe('festival', () => {
         //Print the elements which is visble
         Page.printAllElemnts();
         //Find the length of the element
-        Page.lenghts()
+        Page.lenghts();
     });
 });
 
